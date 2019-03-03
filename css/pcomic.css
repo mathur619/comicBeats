@@ -1,0 +1,35 @@
+.jumbotron{
+	margin-top: -5%;
+}
+
+.navbar{
+	margin-top: -2%;
+	height:56px;
+	font-size: 1.5em;
+}
+
+.jumbotron-para{
+	margin-left: 2%;
+	margin-right: 2%;
+	text-align: left;
+}
+
+.logo{
+	height: 5%;
+	width: 5%;
+}
+
+#jpara{
+	margin-left: 9%;
+}
+
+.comicinfo{
+	width: 50%;
+	font-family: 'raleway';
+	font-size: 1.5em;
+	float:right;
+}
+.comicimage{
+	width: 50%;
+	float: left;
+}

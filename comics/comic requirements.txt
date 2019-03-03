@@ -1,0 +1,10 @@
+name
+comic id
+date
+writer
+price
+pages
+image
+
+
+connection of comic with characters,with product...

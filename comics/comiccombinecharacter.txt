@@ -1,0 +1,8 @@
+comic id
+character id
+
+create table comicCombineCharacter (ComicId int, CharacterId int);
+
+ALTER TABLE comicCombineCharacter 
+ADD FOREIGN KEY ( CharacterId) REFERENCES characterinfo(CharacterId);
+

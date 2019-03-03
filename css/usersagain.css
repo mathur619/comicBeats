@@ -1,0 +1,60 @@
+
+.side{
+	margin-top: -1.5%;
+	height: 600px;
+	font-size: 2.0em;
+	width:20%;
+	border: 1px solid ghostwhite;
+	color:#2c3e50;
+	background: #ecf0f1;
+	text-align: center;
+	float: left;
+
+}
+.option{
+	cursor: pointer;
+	/*border-bottom:1px solid black; */
+		
+}
+.option:hover{
+	
+	background: #2c3e50;
+	color:white;
+}
+#account{
+	height: 100px;
+	margin-top: 10%;
+}
+
+.user-label{
+	font-size: 20px;
+	width: 20%;
+	float: left;
+	/*color:#2c3e50;
+	background: #ecf0f1;*/
+	margin-top: -1.5%;
+	text-align: right;
+	
+
+}
+.user-info{
+	
+	
+	font-size: 20px;
+	width: 40%;
+	float: left;
+	margin-top: -1.5%;
+	/*margin-left: 2%;*/
+}
+.other{
+	/*background: url('53198.jpg');*/
+	/*background: black;*/
+}
+
+a{
+	color:#2c3e50;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}

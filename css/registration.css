@@ -1,0 +1,25 @@
+html{
+	height: 100%;
+}
+
+body{
+	background:url(241901.jpg);
+	background-size: cover;
+	font-family: 'Quicksand', sans-serif;
+	color:white;
+}
+
+h1{
+	font-size: 4.0em;
+	font-weight: 700;
+	/*text-align: center;*/
+	margin-left: 18%;
+}
+
+.container{
+	margin-top: 5%;
+}
+
+.form-control{
+	width:50%;
+}

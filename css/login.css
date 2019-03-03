@@ -1,0 +1,39 @@
+.caption{
+	font-size: 1.2em;
+	text-align: center;
+}
+.thumbnail:hover{
+	cursor: pointer;
+	margin-top: -2%;
+	border:3px solid grey;
+
+	
+}
+.col-lg-2:hover{
+	cursor: pointer;
+	margin-top: -.5%;
+	/*border:1px solid grey;*/
+	color:#0066ff;
+}
+
+.comicbutton{
+	border:0;
+	background: white;
+	float: left;
+
+}
+
+.comicimage{
+	height: 400px;
+	width: 300px;
+}
+.cbutton{
+	margin-left:8%; 
+	margin-top: 1%;
+}
+.comicbutton:hover{
+	border:2px solid grey;
+	margin-top: -1%;
+	opacity: .9;
+
+}

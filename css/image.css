@@ -1,0 +1,25 @@
+.image{
+width:500px;
+height:500px;
+}
+
+.imgdiv{
+
+height:50%;
+margin-top: -500px;
+}
+
+.superdiv{
+	background: #1a1a1a;
+	height:300px;
+	margin-top: 300px;
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.0em;
+	text-align: left;
+
+}
+.subdiv{
+	width:70%;
+	float:right;
+}

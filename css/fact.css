@@ -1,0 +1,29 @@
+html{
+	height: 100%;
+}
+
+body{
+	background:url(241901.jpg);
+	background-size: cover;
+	font-family: 'Quicksand', sans-serif;
+	color:white;
+
+}
+.fact{
+	text-align: center;
+	margin-top: 20%;
+	font-size: 3.0em;
+}
+.content{
+	text-align: center;
+	width: 40%;
+	font-size: 1.5em;
+	margin-left: 29%;
+}
+.btn{
+	margin-left: 43%;
+	margin-top: 4%;
+}
+hr{
+	width: 40%;
+}
